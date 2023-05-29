@@ -130,6 +130,7 @@
     <ClCompile Include="ParagidmaOOP2_051.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="abstraksi.h" />
     <ClInclude Include="enkapulasi.h" />
     <ClInclude Include="multiwaris.h" />
     <ClInclude Include="nOverriding.h" />
