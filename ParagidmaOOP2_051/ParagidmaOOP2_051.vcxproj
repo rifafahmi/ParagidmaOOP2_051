@@ -131,6 +131,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="multiwaris.h" />
+    <ClInclude Include="nOverriding.h" />
     <ClInclude Include="polimorpi.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

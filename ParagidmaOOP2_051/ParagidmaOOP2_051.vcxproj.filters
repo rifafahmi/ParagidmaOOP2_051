@@ -26,5 +26,8 @@
     <ClInclude Include="polimorpi.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="nOverriding.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
