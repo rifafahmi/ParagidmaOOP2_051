@@ -29,5 +29,8 @@
     <ClInclude Include="nOverriding.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="nPewarisan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
