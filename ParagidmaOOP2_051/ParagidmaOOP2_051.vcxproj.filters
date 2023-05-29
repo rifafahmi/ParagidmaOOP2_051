@@ -23,5 +23,8 @@
     <ClInclude Include="multiwaris.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="polimorpi.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
